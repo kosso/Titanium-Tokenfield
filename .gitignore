@@ -1,7 +1,7 @@
 tmp
 bin
 build
-*.zip
+# *.zip
 
 #########################
 # .gitignore file for Xcode4 / OS X Source projects
